@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-05-16.md",
+                "file": "Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-16"
+              "title": "Intro"
             }
           }
         ]
@@ -156,27 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-05-16.md",
+                "file": "Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-16"
-            }
-          },
-          {
-            "id": "0d251a457d4ed810",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Intro"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,6 +186,7 @@
   },
   "active": "8ef8713e04476762",
   "lastOpenFiles": [
+    "Intro.md",
     "Welcome.md",
     "2026-05-16.md",
     "Untitled.canvas",
